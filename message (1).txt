@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Felix Giang Homepage</title>
+        <style>
+        #profile {
+            height: 250px;
+            width : 300px;
+        }
+        #profile {
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+        }
+        .header {
+            text-align: center; 
+        }
+        </style>
+    </head>
+    <body>
+        <h1 class="header">Felix Giang</h1>
+        <table>
+        <tr>
+            <img id="profile" src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/65470395_2713765955320195_1324795268180213760_o.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=ZxeyBImcqGgAX8BdRay&_nc_ht=scontent-lax3-2.xx&oh=6e769ae33c44f1f13ad9ff1e5b4607f2&oe=5EE8BD72">
+        </tr>
+        <tr>
+            <p>
+                Hello. I am currently a high school student at Cosumnes Oaks High School. I am an aspiring gamer and soon-to-be computer science major. Some of the games I enjoy are Legends of Runeterra, League of Legends, and Valorant. I also like to play volleyball and run. 
+            </p>
+            <br>
+            <h3 class="header">My Goals In Computer Science</h3>
+            <p>
+                In computer science, I would like to learn as much as I can in order to succeed. Already, I've learned how to create a webpage and want to learn next to compute information in order to automate my work.
+            </p>
+            <br>
+            <h3 class="header">Examples of My Previous Work</h3>
+            <p>
+                <a href="https://codehs.com/student/1790298/section/141619/assignment/21512305">
+                    My To-Do List
+                </a>
+            </p>
+            <p>
+                <a href="https://github.com/nheowmas/choose-adventure-game/blob/master/Giang_Felix.ch">
+                    My Adventure Game (In Ch)
+                </a>
+            </p>
+            <br>
+            <h3 class="header">Thank You!</h3>
+            <p>
+                Thank you for all the people that have shaped me the past two years. I'd like to thank Mr. Lall for showing me that I am worth more than I think and that I should pursue what I want and not listen to others. Thank you Ms. Hale for teaching me all the computer science principles in order to complete my projects this schoolyear and this webpage. Lastly, I'd like to thank my friends for being there through all the tough times I've had. I wish everyone the best.
+            </p>
+        </tr>
+        </table>
+    </body>
+</html>
